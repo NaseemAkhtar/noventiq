@@ -1,0 +1,10 @@
+{
+    "footer": "कॉपीराइट 2024 Noventiq | Noventiq द्वारा संचालित",
+    "formlabels":{
+        "email": "ईमेल",
+        "password": "पासवर्ड",
+        "forgot_password":"पासवर्ड भूल गए",
+        "language": "भाषा",
+        "login":"लॉग इन करें"
+    }
+}

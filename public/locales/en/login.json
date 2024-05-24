@@ -1,0 +1,10 @@
+{
+    "footer": "copyright 2024 Noventiq | Powered by Noventiq",
+    "formlabels":{
+        "email": "Email",
+        "password": "Password",
+        "forgot_password":"Forgot Password",
+        "language": "Language",
+        "login":"Login"
+    }
+}

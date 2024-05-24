@@ -1,0 +1,10 @@
+{
+    "footer": "droit d'auteur 2024 Noventiq | Propulsé par Noventiq",
+    "formlabels":{
+        "email": "E-mail",
+        "password": "Mot de passe",
+        "forgot_password":"Mot de passe oublié",
+        "language": "Langue",
+        "login":"Se connecter"
+    }
+}
